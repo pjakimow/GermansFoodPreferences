@@ -25,9 +25,11 @@ pathToSave = <?>
 
 ### Settings
 
-1. Create account on plot.ly and get credentials
+1. Create an account on plot.ly and get credentials
 2. In main folder create a text file named plotly_config.txt that looks like this
 
 ```bash
 <my_username>;<my_api_key>
 ```
+
+3. Don't commit this file
