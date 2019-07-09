@@ -20,3 +20,14 @@ all_rows = True
 pathToSave = <?>
 ```
 - You should launch cells that are required
+
+## Plots
+
+### Settings
+
+1. Create account on plot.ly and get credentials
+2. In main folder create a text file named plotly_config.txt that looks like this
+
+```bash
+<my_username>;<my_api_key>
+```
