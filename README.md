@@ -1,6 +1,10 @@
 # GermansFoodPreferences
 
-## Steps
+## Scrapping
+
+Last updated python file for scrapping is scrapper\CategoriesScrapperV2.ipynb 
+
+### Steps for Scrapping
 
 1. Split file using method from scrapper/FileSplitter.ipynb
 - Don't forget to change a path
@@ -23,6 +27,8 @@ pathToSave = <?>
 
 ## Plots
 
+Modified python file for plotting via binder is CategoriesAnalysis-Binder.ipynb
+
 ### Settings
 
 1. Create an account on plot.ly and get credentials
@@ -31,5 +37,7 @@ pathToSave = <?>
 ```bash
 <my_username>;<my_api_key>
 ```
-
 3. Don't commit this file
+
+The credentials are defined for running this code via binder.
+
