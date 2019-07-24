@@ -4,36 +4,36 @@
 
 ### For Binder
 
-- CategoriesAnalysis-Binder.ipynb
+- CategoriesAnalysis-Binder.ipynb. 
 Modified *CategoriesAnalysis.ipynb* file for plotting via binder.
 
 ### Others
 
-- scrapper/CategoriesScrapperV2.ipynb
+- scrapper/CategoriesScrapperV2.ipynb. 
 Current version of categories scrapper.
 
-- scrapper/FileSplitter.ipynb
+- scrapper/FileSplitter.ipynb. 
 Splits file into many small files. Used to split file for scrapping to more persons.
 
-- scrapper/FileConnecter.ipynb
+- scrapper/FileConnecter.ipynb. 
 Connects many files into one file. Used after webscrapping. 
 
-- ExploringData.ipynb
+- ExploringData.ipynb. 
 Contains some data exploring procedures. Checking the number of examples for each city/day. 
 
-- DataPreparation.ipynb
+- DataPreparation.ipynb. 
 Contains preparation of data before subsequent use. Season extraction, data unifying, duplicates removal. 
 
-- FilePreparation.ipynb
+- FilePreparation.ipynb. 
 Creates dictionaries with grouped data by city/season/both. Saves data to *file/to_plot* folder for subsequent use as base for plots.
 
-- files/to_plot
+- files/to_plot. 
 Contains data created from log and scrapped data needed for plots.
 
-- CategoriesAnalysis.ipynb 
+- CategoriesAnalysis.ipynb. 
 Reads files from *files/to_plot* and creates plots.
 
-- HypothesisTesting.ipynb
+- HypothesisTesting.ipynb. 
 Contains hypothesis testing.
 
 
