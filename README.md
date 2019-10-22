@@ -1,6 +1,10 @@
 # GermansFoodPreferences
 
-## Steps
+The project was created during the subject *Computational Social Science* at *Koblenz University*.
+Part of the data was provided by the teacher, the other part was scrapped from [kochbar.de](https://www.kochbar.de/).
+
+## Hints for other team members
+### Scrapper
 
 1. Split file using method from scrapper/FileSplitter.ipynb
 - Don't forget to change a path
@@ -21,9 +25,9 @@ pathToSave = <?>
 ```
 - You should launch cells that are required
 
-## Plots
+### Plots
 
-### Settings
+#### Settings
 
 1. Create an account on plot.ly and get credentials
 2. In main folder create a text file named plotly_config.txt that looks like this
